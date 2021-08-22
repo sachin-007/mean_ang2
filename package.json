@@ -1,0 +1,26 @@
+{
+  "name": "sachmeanang2",
+  "version": "1.0.0",
+  "description": "mean stack with ang 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachin-007/mean_ang2.git"
+  },
+  "keywords": [
+    "sachbach"
+  ],
+  "author": "sachbach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachin-007/mean_ang2/issues"
+  },
+  "homepage": "https://github.com/sachin-007/mean_ang2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.7"
+  }
+}
